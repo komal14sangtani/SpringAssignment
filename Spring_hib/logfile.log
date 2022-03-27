@@ -1,0 +1,14 @@
+INFO  | 2022-03-19 09:33:52 | [main] aspects.MyLoggingAspect (MyLoggingAspect.java:23) - method take :0 ms time to execute
+INFO  | 2022-03-19 09:35:37 | [main] aspects.MyLoggingAspect (MyLoggingAspect.java:23) - method take :0 ms time to execute
+INFO  | 2022-03-19 10:08:28 | [main] aspects.MyLoggingAspect (MyLoggingAspect.java:23) - method take :336 ms time to execute
+INFO  | 2022-03-19 10:17:35 | [main] aspects.MyLoggingAspect (MyLoggingAspect.java:23) - method take :253 ms time to execute
+INFO  | 2022-03-19 10:27:54 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2022-03-19 10:27:54 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2022-03-19 10:27:54 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2022-03-19 10:27:55 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2022-03-19 10:28:21 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2022-03-19 10:28:21 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2022-03-19 10:28:21 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2022-03-19 10:28:21 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  | 2022-03-19 10:28:22 | [main] internal.QueryTranslatorFactoryInitiator (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+INFO  | 2022-03-19 10:28:22 | [main] aspects.MyLoggingAspect (MyLoggingAspect.java:23) - method take :158 ms time to execute
